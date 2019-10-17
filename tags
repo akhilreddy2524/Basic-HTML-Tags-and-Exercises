@@ -41,3 +41,124 @@ John</font>
 </body>
 </html>
 <!-- Q5-->
+<html>
+<body>
+<font face="Calibri">John</font>
+</body>
+</html>
+<!-- Q6-->
+<html>
+<body>
+<p>
+<font face="Courier New">
+HTML stands for Hyper Text Markup Language.
+</font> 
+
+<font face="Times New Roman">It is the core
+language of the world wide web and is used to define 
+the structure and layout of web documents by using 
+various tags and attributes.
+</font> 
+
+<font face="Helvetica">
+Although a fundamental language of the web, HTML is a 
+static language - content created with it does not change.
+</font> 
+
+<font face="Georgia">
+HTML is used to specify the way webpages look, not how they 
+function.
+</font>
+</p>
+</body>
+</html>
+<!-- Q7-->
+<html>
+<body>
+<p>
+One particular book which is recommended reading is <u>The Street Lawyer</u> by <u>John Grisham</u>. This book is about a lawyer who begins re-evaluating his priorities in life when a bad 
+incident occurs within his law firm. Consequently, he becomes acquainted with the inner city streets, and realizes the harsh existence of the homeless, and vows to give them a chance in the courts. <u>The Street Lawyer</u> is a <b><i>great</i></b>
+book. It is <b><i>well written</i></b> and <b><i>interesting</i></b>. Other books by <u>John Grisham</u> include <u>The Firm</u>, <u>The Pelican Brief</u>, and <u>The Client</u>.
+</p>
+</body>
+</html>
+<!-- Q8-->
+<html>
+<body>
+<h4>J</h4>
+<h3>o</h3>
+<h2>h</h2>
+<h1>n</h1>
+</body>
+</html>
+<!-- Q9-->
+
+<html>
+<body>
+1<sup>2</sup> = 1
+<br />
+2<sup>2</sup> = 4
+<br />
+3<sup>2</sup> = 9
+<br />
+4<sup>2</sup> = 16
+<br />
+5<sup>2</sup> = 25
+<br />
+6<sup>2</sup> = 36
+<br />
+7<sup>2</sup> = 49
+<br />
+8<sup>2</sup> = 64
+<br />
+9<sup>2</sup> = 81
+<br />
+10<sup>2</sup> = 100
+<br />
+11<sup>2</sup> = 121
+<br />
+12<sup>2</sup> = 144
+<br />
+13<sup>2</sup> = 169
+<br />
+14<sup>2</sup> = 196
+<br />
+15<sup>2</sup> = 225
+<br />
+16<sup>2</sup> = 256
+<br />
+17<sup>2</sup> = 289
+<br />
+18<sup>2</sup> = 324
+<br />
+19<sup>2</sup> = 361
+<br />
+20<sup>2</sup> = 400
+</body>
+</html>
+<!-- Q10-->
+<html>
+<body>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer programming is defined as telling a computer what to 
+do through a special set of instructions which are then 
+interpreted by the computer to perform some task(s). These 
+instructions can be specified in one or more programming 
+languages including (but not limited to) Java, PHP, C, and 
+C++. A computer goes through a series of steps whose purpose 
+is to achieve something - a series of steps that are 
+instructed to it in great detail by computer programs. 
+Essentialy, computer programming is the process by which these 
+programs are designed and implemented.
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While computer programming can be a great tool used to achieve 
+many things, there are a few misconceptions when it comes to 
+the subject, a few misconceptions that should be cleared up. 
+One misconception about computer programming is that you would 
+need to have some kind of special software to write programs - 
+this is hardly the case.
+</p>
+</body>
+</html>
+
