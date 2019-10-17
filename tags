@@ -1,7 +1,28 @@
-
+<!-- Q1-->
 <html>
 <body>
 <!-- print name to the screen -->
-John
+name to the screen
 </body>
 </html>
+<!-- Q2-->
+<html>
+<head>
+<!--set the title of the page-->
+<title>Welcome to VIT-AP</title>
+</head>
+<body>
+<p class="note">
+The title tag goes in the head section of an HTML document.
+</p>
+</body>
+</html>
+<!-- Q3-->
+<html>
+<body>
+<!-- print name to the screen -->
+<font color="skyblue">
+John</font>
+</body>
+</html>
+<!-- Q4-->
